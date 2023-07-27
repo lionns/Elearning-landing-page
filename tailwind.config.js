@@ -15,6 +15,9 @@ export default {
       pink: "#FFA7C3",
       white: "#FFFFFF",
     },
+    fontFamily: {
+      sans: "Plus Jakarta Sans",
+    },
   },
   plugins: [],
 };
